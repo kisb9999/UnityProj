@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Scroller : MonoBehaviour
 {
-
     private BoxCollider2D collider;
     private Rigidbody2D body;
     private float scrollSpeed = -2.0f;
@@ -18,7 +17,6 @@ public class Scroller : MonoBehaviour
         collider.enabled = false;
 
         body.velocity = new Vector2(scrollSpeed, 0);
-
     }
 
     // Update is called once per frame

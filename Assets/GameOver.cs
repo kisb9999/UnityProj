@@ -29,4 +29,9 @@ public class GameOver : MonoBehaviour
     {
         SceneManager.LoadScene("SampleScene");
     }
+
+    public void ExitButton()
+    {
+        Application.Quit();
+    }
 }

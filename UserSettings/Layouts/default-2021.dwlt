@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 108
+  controlID: 110
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 96
+  controlID: 94
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 97
+  controlID: 95
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,21 +318,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\kisb2\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e85d0000
-    m_LastClickedID: 24040
+    m_SelectedIDs: e25d0000
+    m_LastClickedID: 24034
     m_ExpandedIDs: 00000000e25d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -491,9 +491,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 205e0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1ef9ffff68f9ffffa6f9ffffe4f9ffff22faffff2cfbffff
+      m_ExpandedIDs: ced4ffff14d5ffff70d6ffffbad8fffffad8ffffdedcffff24ddffff3eddffff9cdfffffe2dffffffcdfffff84e1ffffcae1ffffe4e1ffff92e2ffffd8e2fffff2e2fffffee3ffff3ee4ffff7ee6ffffcce6ffff2ce8ffffc6e9ffff12eaffffaceafffff2eaffff0cebffff0aeeffff50eeffffacefffff0af4ffffa0f4ffffe4f4ffff40f6ffff22f8ffff60f8ffffacf8ffffeaf8ffff42f9ffff80f9ffffc8f9ffff06faffff2cfbffffc87300005a740000e47900007e7a0000ee8a0000428b00009a8b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -798,9 +798,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.0354638, y: -0.09183314, z: -0.1799926}
+    m_Target: {x: 0.9253384, y: 0.4760992, z: -0.24710284}
     speed: 2
-    m_Value: {x: -0.047894564, y: -0.19274169, z: -0.17623413}
+    m_Value: {x: 0.55494833, y: 0.4246981, z: -0.23933215}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -851,9 +851,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.728018
+    m_Target: 18.04512
     speed: 2
-    m_Value: 8.35217
+    m_Value: 17.268057
   m_Ortho:
     m_Target: 1
     speed: 2
